@@ -1,0 +1,9 @@
+org\upper_lower_case\mbean\LogSwitcherMBean.class
+org\upper_lower_case\utils\LoggerForConsoleOutput$1.class
+org\upper_lower_case\utils\InfoPrinter.class
+org\upper_lower_case\CaseConvertor.class
+org\upper_lower_case\utils\LoggerForConsoleOutput.class
+org\upper_lower_case\mbean\LogSwitcher.class
+org\upper_lower_case\utils\ConsoleConnector.class
+org\upper_lower_case\aspect\LogAspect.class
+org\upper_lower_case\Main.class
